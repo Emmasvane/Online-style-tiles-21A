@@ -38,7 +38,7 @@ html {
 }
 
 img {
-  max-width: 54%;
+  max-width: 100%;
   height: auto;
 }
 
@@ -224,6 +224,10 @@ p[class*="font-details-"] {
 
 .adjectives ul {
   flex-direction: column;
+}
+
+.elementer {
+  display: flex;
 }
 
 footer {
